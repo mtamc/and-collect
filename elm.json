@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "tam-carre/and-collect",
-    "summary": "No do-notation needed! andCollect combinators for interdependent computations",
+    "summary": "No do-notation needed! andCollect combinators for interdependent computations in Elm",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
     "exposed-modules": [
