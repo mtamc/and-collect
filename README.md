@@ -65,7 +65,7 @@ andCollect callback oldRemoteData =
         oldRemoteData
 ```
 
-This is how `custom` is implemented. (The LSP's inferred signature was used. Feedback or experimentation should be gathered to ensure this is the lack of higher-kinded types aren't causing any weird gotchas.)
+This is how `custom` is implemented. (The LSP's inferred signature was used. Feedback or experimentation should be gathered to ensure the lack of higher-kinded types aren't causing any weird gotchas.)
 
 ```elm
 custom :
