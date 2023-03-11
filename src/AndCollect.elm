@@ -57,7 +57,7 @@ You may then use RemoteData.Extra.andCollect by turning code such as this...
             |> RemoteData.andCollect (\( a, b ) -> getC a b)
             |> RemoteData.andThen (\( ( a, b ), c ) -> solve a b c)
 
-(The LSP's inferred signature was used. Feedback or experimentation should be gathered to ensure the lack of higher-kinded types aren't causing any weird gotchas.)
+(The LSP's inferred signature was used. Feedback or experimentation should be gathered to ensure the lack of higher-kinded types isn't causing any weird gotchas.)
 
 -}
 custom :
