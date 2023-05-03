@@ -3,7 +3,7 @@
     "name": "mtamc/and-collect",
     "summary": "No do-notation needed! andCollect combinators for interdependent computations",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "exposed-modules": [
         "AndCollect",
         "Result.AndCollect",
